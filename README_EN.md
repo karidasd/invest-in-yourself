@@ -34,6 +34,11 @@
 ## 🗣️ 2. Soft Skills & Mindset
 *Hard skills get you the job, soft skills make you the Leader.*
 
+### 🧠 The Meta-Skills (The skills that build other skills)
+- **Adaptability:** In the age of AI, what you know today might be obsolete in 2 years. The most critical skill is the ability to "unlearn" and quickly learn new things.
+- **Emotional Intelligence (EQ > IQ):** At work, nobody wants to collaborate with a toxic genius. Empathy, Active Listening, and conflict resolution will take you further than code.
+- **Problem Solving:** Don't wait for instructions for everything. When a problem arises, don't go to your boss asking "What do we do?". Go with: "We have this problem, and I suggest solutions A and B".
+
 ### 📚 Game-Changing Books
 - **[Atomic Habits](https://jamesclear.com/atomic-habits) (James Clear):** Build systems, not goals. Getting 1% better every day brings massive results (the compound interest of self-improvement).
 - **[Deep Work](https://calnewport.com/deep-work-rules-for-focused-success-in-a-distracted-world/) (Cal Newport):** How to work with absolute focus in a world full of distractions (social media, notifications).
