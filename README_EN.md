@@ -38,6 +38,12 @@
 - **[OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering):** The official guide from OpenAI to get the absolute most out of ChatGPT.
 - **[DeepLearning.AI (AI for Everyone)](https://www.deeplearning.ai/courses/ai-for-everyone/):** Free AI courses by Andrew Ng (for those who want to understand "how" it works without necessarily writing code).
 
+### 📰 Information Diet
+Just like there is junk food, there is junk information (TikTok, Drama). Build a healthy information diet:
+- **[TLDR](https://tldr.tech/):** All tech/AI news in your inbox in 5 minutes a day.
+- **[Morning Brew](https://www.morningbrew.com/):** Finance and Business news in plain, witty English.
+- **[The Pragmatic Engineer](https://blog.pragmaticengineer.com/):** The #1 newsletter globally for Software Engineers and Tech professionals.
+
 ---
 
 ## 🗣️ 2. Soft Skills & Mindset
@@ -47,6 +53,11 @@
 - **Adaptability:** In the age of AI, what you know today might be obsolete in 2 years. The most critical skill is the ability to "unlearn" and quickly learn new things.
 - **Emotional Intelligence (EQ > IQ):** At work, nobody wants to collaborate with a toxic genius. Empathy, Active Listening, and conflict resolution will take you further than code.
 - **Problem Solving:** Don't wait for instructions for everything. When a problem arises, don't go to your boss asking "What do we do?". Go with: "We have this problem, and I suggest solutions A and B".
+
+### 🧩 Mental Models (The Tools of Thinking)
+- **Pareto Principle (The 80/20 Rule):** 80% of your results come from 20% of your efforts. Learn to identify that 20% and focus entirely on it (skills, clients, friendships).
+- **First Principles Thinking:** Break down a complex problem into its most basic, undeniable truths and build the solution from scratch (the Elon Musk method).
+- **Inversion:** Instead of thinking "how to succeed", think "what will guarantee my failure?" and avoid it (e.g., poor sleep, gambling, toxic friends).
 
 ### 📚 Game-Changing Books
 - **[Atomic Habits](https://jamesclear.com/atomic-habits) (James Clear):** Build systems, not goals. Getting 1% better every day brings massive results (the compound interest of self-improvement).
@@ -99,6 +110,11 @@
 - **Time-Blocking:** Stop working with endless "to-do lists". Allocate specific time blocks on your Google Calendar for your tasks (e.g., 10:00-12:00 Deep Work).
 - **The 2-Minute Rule:** If a task takes less than 2 minutes, do it NOW. Don't procrastinate.
 
+### 🧰 The Ultimate Tools Stack
+- **[Figma](https://www.figma.com/):** The industry standard for UI/UX design, wireframes, and presentations.
+- **[GitHub](https://github.com/):** The resume of the future for anyone who writes code (or builds resources like this).
+- **[Canva](https://www.canva.com/):** For quick, professional graphics without needing Photoshop skills.
+
 ---
 
 ## 🌐 6. Personal Branding & Networking
@@ -108,6 +124,11 @@
 - **Cold Emailing:** Don't just send CVs to faceless portals. Find the email of the CEO or Hiring Manager and send a short, personalized message outlining the value you can provide.
 - **Quality over Quantity Network:** 5 people who inspire you are worth more than 500 random connections on LinkedIn.
 - **Be a "T-Shaped" Person:** Have deep knowledge in one specific area (the vertical of the "T"), but know the basics of design, marketing, finance, and psychology (the horizontal of the "T").
+
+### 🚀 Side Hustles & "Skin in the Game"
+Courses are great, but nothing teaches you more than making your first dollar on the internet.
+- **[Upwork](https://www.upwork.com/) / [Fiverr](https://www.fiverr.com/):** Sell your skills globally (freelancing). Even a $50 project will teach you how to talk to clients.
+- **Indie Hacking ([Product Hunt](https://www.producthunt.com/)):** Build a small product/app of your own, launch it, and see if people want it. The best entrepreneurship simulation.
 
 ---
 
