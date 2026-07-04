@@ -2,6 +2,13 @@
 
 # 🚀 Invest In Yourself | The Ultimate 20s Roadmap
 
+<p align="center">
+  <img src="https://img.shields.io/github/stars/karidasd/invest-in-yourself?style=for-the-badge&color=yellow" alt="Stars" />
+  <img src="https://img.shields.io/github/license/karidasd/invest-in-yourself?style=for-the-badge&color=blue" alt="License" />
+  <img src="https://img.shields.io/github/last-commit/karidasd/invest-in-yourself?style=for-the-badge&color=green" alt="Last Commit" />
+  <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome" /></a>
+</p>
+
 **The ultimate guide for 20-30 year olds who want to build mind, body, and wealth.**
 
 🇬🇷 [Διαβάστε το στα Ελληνικά](README.md)
@@ -13,6 +20,15 @@
 "Invest in Yourself" is an open-source roadmap gathering the absolute best (and free) resources. Whether you are studying, working, or figuring things out, this is the blueprint for the top 1% of our generation.
 
 > 💡 **The Core Philosophy:** The best investment you will ever make is in yourself. **Companies change, trends die, economies run in cycles. The only asset that stays with you forever is YOU.** This guide isn't just a random list of links. It reflects my personal mindset and the exact principles I follow to continuously level up.
+
+## 📑 Table of Contents
+1. [Knowledge & Tech](#-1-knowledge--tech)
+2. [Soft Skills & Mindset](#️-2-soft-skills--mindset)
+3. [Wealth & Investing](#-3-wealth--investing)
+4. [Health & Biohacking](#️-4-health--biohacking)
+5. [Productivity & Second Brain](#️-5-productivity--second-brain)
+6. [Personal Branding & Networking](#-6-personal-branding--networking)
+7. [Experiences & Expansion](#-7-experiences--expansion)
 
 ---
 
@@ -37,6 +53,13 @@
 - **[Anthropic's Claude Prompt Engineering](https://docs.anthropic.com/en/docs/prompt-engineering):** The official (free) course/documentation on how to write perfect prompts for Claude. It's the new Excel.
 - **[OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering):** The official guide from OpenAI to get the absolute most out of ChatGPT.
 - **[DeepLearning.AI (AI for Everyone)](https://www.deeplearning.ai/courses/ai-for-everyone/):** Free AI courses by Andrew Ng (for those who want to understand "how" it works without necessarily writing code).
+
+### 📊 The Data Scientist & AI Engineer Toolkit
+Especially if you are interested in Data Science or AI Engineering, you must know these:
+- **[Hugging Face Courses](https://huggingface.co/learn):** The "GitHub" of Artificial Intelligence. Learn everything about NLP (Natural Language Processing) and LLMs.
+- **[fast.ai](https://course.fast.ai/):** One of the most famous courses globally (Deep Learning for Coders). Highly practical from minute zero.
+- **[Scikit-Learn & Pandas (Kaggle)](https://www.kaggle.com/learn/pandas):** You can't do Data Science if you don't know how to manipulate data with Pandas and Scikit-Learn in Python.
+- **[MLOps Zoomcamp](https://mlops.zoomcamp.datatalks.club/):** Building a model is easy. Putting it into Production is hard. MLOps pays the highest salaries today.
 
 ### 📰 Information Diet
 Just like there is junk food, there is junk information (TikTok, Drama). Build a healthy information diet:

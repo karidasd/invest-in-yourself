@@ -2,6 +2,13 @@
 
 # 🚀 Invest In Yourself | The Ultimate 20s Roadmap
 
+<p align="center">
+  <img src="https://img.shields.io/github/stars/karidasd/invest-in-yourself?style=for-the-badge&color=yellow" alt="Stars" />
+  <img src="https://img.shields.io/github/license/karidasd/invest-in-yourself?style=for-the-badge&color=blue" alt="License" />
+  <img src="https://img.shields.io/github/last-commit/karidasd/invest-in-yourself?style=for-the-badge&color=green" alt="Last Commit" />
+  <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome" /></a>
+</p>
+
 **Ο απόλυτος οδηγός για νέους 20-30 ετών που θέλουν να χτίσουν μυαλό, σώμα και περιουσία.**
 
 🌍 [Read this in English 🇬🇧](README_EN.md)
@@ -13,6 +20,15 @@
 Το "Invest in Yourself" είναι ένα ανοιχτό roadmap που συγκεντρώνει τα πιο κορυφαία (και δωρεάν) resources. Δεν έχει σημασία αν σπουδάζεις, αν δουλεύεις, ή αν ψάχνεσαι. Αυτός είναι ο χάρτης για το 1% της γενιάς μας.
 
 > 💡 **The Core Philosophy:** Η καλύτερη επένδυση που θα κάνεις ποτέ, είναι στον εαυτό σου. **Οι εταιρείες αλλάζουν, τα trends πεθαίνουν, οι οικονομίες κάνουν κύκλους. Το μόνο asset που μένει μαζί σου για πάντα, είσαι εσύ.** Αυτός ο οδηγός δεν είναι απλά μια λίστα με links. Αντικατοπτρίζει το προσωπικό μου mindset και τις αρχές που ακολουθώ για να εξελίσσομαι καθημερινά.
+
+## 📑 Πίνακας Περιεχομένων
+1. [Knowledge & Tech](#-1-knowledge--tech)
+2. [Soft Skills & Mindset](#️-2-soft-skills--mindset)
+3. [Wealth & Investing](#-3-wealth--investing)
+4. [Health & Biohacking](#️-4-health--biohacking)
+5. [Productivity & Second Brain](#️-5-productivity--second-brain)
+6. [Personal Branding & Networking](#-6-personal-branding--networking)
+7. [Experiences & Expansion](#-7-experiences--expansion)
 
 ---
 
@@ -37,6 +53,13 @@
 - **[Anthropic's Claude Prompt Engineering](https://docs.anthropic.com/en/docs/prompt-engineering):** Το επίσημο (δωρεάν) documentation/course για το πώς να γράφεις τέλεια prompts για το Claude. Είναι το νέο Excel. 
 - **[OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering):** Ο αντίστοιχος επίσημος οδηγός της OpenAI για να πάρεις τα μέγιστα από το ChatGPT.
 - **[DeepLearning.AI (AI for Everyone)](https://www.deeplearning.ai/courses/ai-for-everyone/):** Δωρεάν μαθήματα για AI από τον Andrew Ng (για όσους θέλουν να καταλάβουν το "πώς" δουλεύει χωρίς να γράφουν απαραίτητα κώδικα).
+
+### 📊 The Data Scientist & AI Engineer Toolkit
+Ειδικά αν σε ενδιαφέρει το Data Science ή το AI Engineering, πρέπει να ξέρεις αυτά:
+- **[Hugging Face Courses](https://huggingface.co/learn):** Το "GitHub" της Τεχνητής Νοημοσύνης. Μάθε τα πάντα για NLP (Natural Language Processing) και LLMs.
+- **[fast.ai](https://course.fast.ai/):** Ένα από τα πιο διάσημα courses παγκοσμίως (Deep Learning for Coders). Πρακτικό από το λεπτό μηδέν.
+- **[Scikit-Learn & Pandas (Kaggle)](https://www.kaggle.com/learn/pandas):** Δεν γίνεται Data Science αν δεν ξέρεις να χειρίζεσαι δεδομένα με Pandas και Scikit-Learn σε Python.
+- **[MLOps Zoomcamp](https://mlops.zoomcamp.datatalks.club/):** Το να φτιάξεις ένα μοντέλο είναι εύκολο. Το να το βάλεις σε παραγωγή (Production) είναι το δύσκολο. Το MLOps πληρώνει τα περισσότερα χρήματα σήμερα.
 
 ### 📰 Information Diet (Τι "ταΐζεις" το μυαλό σου)
 Όπως υπάρχει junk food, υπάρχει και junk information (TikTok, Drama). Χτίσε σωστή "δίαιτα" πληροφοριών:
