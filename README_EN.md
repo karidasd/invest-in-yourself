@@ -61,8 +61,8 @@
 - **Emergency Fund:** Save 3-6 months of living expenses in cash. It's your safety net. You can't take risks if you're terrified of losing your job.
 
 ### 📈 Investing
-- **Compound Interest:** Albert Einstein called it the "8th wonder of the world". Start in your 20s. Small amounts every month become a fortune in your 40s thanks to time.
-- **S&P 500 & Global ETFs:** Don't try to day-trade or pick individual stocks. Buy the whole market (e.g., via ETFs like **VUAA**, **VWCE**, or **CSPX**) and hold them for decades.
+- **[Compound Interest Calculator](https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator):** Albert Einstein called it the "8th wonder of the world". Start in your 20s. Small amounts every month become a fortune in your 40s thanks to time. Try the calculator to see the magic.
+- **[S&P 500 & Global ETFs (justETF)](https://www.justetf.com/en/):** Don't try to day-trade or pick individual stocks. Buy the whole market (e.g., via ETFs like **VUAA**, **VWCE**, or **CSPX**) and hold them for decades. justETF is the best screener for European investors.
 - **DCA (Dollar Cost Averaging):** Invest a fixed amount every month, regardless of whether the market goes up or down. It removes emotion from the equation.
 
 ### 📖 Finance Books
@@ -77,7 +77,7 @@
 - **Sleep is King:** 7-8 hours minimum. Cool dark room, no screens 1 hour before bed. Sleep is the best free nootropic.
 - **Weightlifting:** Build muscle mass early. It protects your joints, improves testosterone/hormones, and boosts your basal metabolic rate.
 - **Zone 2 Cardio:** 150 minutes per week of jogging or brisk walking. The heart is your most important muscle.
-- **Nutrition:** High protein (to build muscle), avoid processed sugar. Drink 3 liters of water a day. "You are what you eat" is literal on a cellular level.
+- **[TDEE Calculator (Nutrition)](https://tdeecalculator.net/):** Calculate exactly how many calories and how much protein you need (to build muscle or lose fat). Avoid processed sugar. "You are what you eat" is literal on a cellular level.
 - **Mental Health:** Walk 30 minutes a day without your phone, music, or podcasts. Let your brain do a "reset" (Dopamine Detox).
 - **[Huberman Lab Podcast](https://www.hubermanlab.com/):** The ultimate source for science-based biohacking (sleep, focus, hormones).
 
@@ -87,7 +87,8 @@
 *Don't try to remember everything. Your brain is for having ideas, not storing them.*
 
 - **[Notion](https://www.notion.so/) / [Obsidian](https://obsidian.md/):** Build a "Second Brain". Keep notes from books, courses, and projects so you never forget them.
-- **The PARA Method:** Organize your digital life into Projects, Areas, Resources, and Archives (by Tiago Forte).
+- **[The PARA Method (Tiago Forte)](https://fortelabs.com/blog/para/):** Organize your digital life into Projects, Areas, Resources, and Archives.
+- **[Pomodoro Technique](https://pomofocus.io/):** Work in 25-minute sprints of absolute focus.
 - **Time-Blocking:** Stop working with endless "to-do lists". Allocate specific time blocks on your Google Calendar for your tasks (e.g., 10:00-12:00 Deep Work).
 - **The 2-Minute Rule:** If a task takes less than 2 minutes, do it NOW. Don't procrastinate.
 
