@@ -12,7 +12,7 @@
 
 "Invest in Yourself" is an open-source roadmap gathering the absolute best (and free) resources. Whether you are studying, working, or figuring things out, this is the blueprint for the top 1% of our generation.
 
-> 💡 **Philosophy:** This guide isn't just a random list of links. **It reflects my personal mindset** and the exact principles I follow to continuously level up professionally, financially, and personally.
+> 💡 **The Core Philosophy:** The best investment you will ever make is in yourself. **Companies change, trends die, economies run in cycles. The only asset that stays with you forever is YOU.** This guide isn't just a random list of links. It reflects my personal mindset and the exact principles I follow to continuously level up.
 
 ---
 
@@ -40,8 +40,9 @@
 - **[How to Win Friends and Influence People](https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People) (Dale Carnegie):** The bible of human communication and networking.
 - **[Never Split the Difference](https://www.blackswanltd.com/never-split-the-difference) (Chris Voss):** Learn negotiation from a former FBI hostage negotiator. Crucial for life, career, and your salary.
 
-### 🏛️ Philosophy
+### 🏛️ Philosophy & Resilience
 - **Stoicism:** Read "Meditations" by Marcus Aurelius. Learn to control only what you can control and ignore the noise.
+- **Embrace Failure:** Failure is not the opposite of success; it's part of it. Fail fast, take the feedback, and move on.
 
 ---
 
@@ -50,7 +51,7 @@
 
 ### 💰 Basic Financial Rules
 - **The 50/30/20 Rule:** 50% Needs (Rent, Bills), 30% Wants (Going out), 20% Investing/Savings.
-- **Emergency Fund:** Save 3-6 months of living expenses in cash. It's your safety net so you can take risks later.
+- **Emergency Fund:** Save 3-6 months of living expenses in cash. It's your safety net. You can't take risks if you're terrified of losing your job.
 
 ### 📈 Investing
 - **Compound Interest:** Albert Einstein called it the "8th wonder of the world". Start in your 20s. Small amounts every month become a fortune in your 40s thanks to time.
@@ -69,7 +70,7 @@
 - **Sleep is King:** 7-8 hours minimum. Cool dark room, no screens 1 hour before bed. Sleep is the best free nootropic.
 - **Weightlifting:** Build muscle mass early. It protects your joints, improves testosterone/hormones, and boosts your basal metabolic rate.
 - **Zone 2 Cardio:** 150 minutes per week of jogging or brisk walking. The heart is your most important muscle.
-- **Nutrition:** High protein (to build muscle), avoid processed sugar. Drink 3 liters of water a day.
+- **Nutrition:** High protein (to build muscle), avoid processed sugar. Drink 3 liters of water a day. "You are what you eat" is literal on a cellular level.
 - **Mental Health:** Walk 30 minutes a day without your phone, music, or podcasts. Let your brain do a "reset" (Dopamine Detox).
 - **[Huberman Lab Podcast](https://www.hubermanlab.com/):** The ultimate source for science-based biohacking (sleep, focus, hormones).
 
@@ -81,15 +82,26 @@
 - **[Notion](https://www.notion.so/) / [Obsidian](https://obsidian.md/):** Build a "Second Brain". Keep notes from books, courses, and projects so you never forget them.
 - **The PARA Method:** Organize your digital life into Projects, Areas, Resources, and Archives (by Tiago Forte).
 - **Time-Blocking:** Stop working with endless "to-do lists". Allocate specific time blocks on your Google Calendar for your tasks (e.g., 10:00-12:00 Deep Work).
+- **The 2-Minute Rule:** If a task takes less than 2 minutes, do it NOW. Don't procrastinate.
 
 ---
 
 ## 🌐 6. Personal Branding & Networking
 *It's not enough to be good. The right people need to know you are good.*
 
-- **Build in Public:** Are you building something? Post it on X (Twitter) or LinkedIn. Show the process, not just the final result.
+- **Build in Public:** Are you building something? Post it on X (Twitter) or LinkedIn. Show the process, not just the final result. People buy into your story.
 - **Cold Emailing:** Don't just send CVs to faceless portals. Find the email of the CEO or Hiring Manager and send a short, personalized message outlining the value you can provide.
 - **Quality over Quantity Network:** 5 people who inspire you are worth more than 500 random connections on LinkedIn.
+- **Be a "T-Shaped" Person:** Have deep knowledge in one specific area (the vertical of the "T"), but know the basics of design, marketing, finance, and psychology (the horizontal of the "T").
+
+---
+
+## 🌍 7. Experiences & Expansion
+*The world is too big to stay in the same room.*
+
+- **Solo Travel:** Travel alone at least once. It forces you to solve problems, talk to strangers, and break out of your comfort zone.
+- **Learn a Hard Skill Offline:** Learn something that doesn't require a screen. Martial arts, a musical instrument, rock climbing. It reconnects you with the real world.
+- **Read Fiction:** Don't just read self-help books. Literature builds empathy and expands your imagination.
 
 ---
 
