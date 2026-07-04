@@ -9,7 +9,11 @@
 
 ## 📌 Τι είναι αυτό το Repository;
 
-Το "Invest in Yourself" είναι ένα interactive roadmap (skill tree) σχεδιασμένο ως one-page εφαρμογή (SPA). Συγκεντρώνει τα πιο σημαντικά resources, δωρεάν courses, βιβλία και συμβουλές σε 4 βασικούς πυλώνες:
+Το "Invest in Yourself" είναι ένα interactive roadmap (skill tree) σχεδιασμένο ως one-page εφαρμογή (SPA). Συγκεντρώνει τα πιο σημαντικά resources, δωρεάν courses, βιβλία και συμβουλές σε 4 βασικούς πυλώνες. 
+
+> 💡 **Philosophy:** Αυτός ο οδηγός δεν είναι απλά μια τυχαία λίστα με links. **Αντικατοπτρίζει το προσωπικό μου mindset** και τις αρχές που ακολουθώ ο ίδιος για να εξελίσσομαι καθημερινά σε επαγγελματικό και προσωπικό επίπεδο. 
+
+Οι 4 πυλώνες:
 
 1. **🧠 Knowledge & Tech:** Δωρεάν πιστοποιήσεις (CS50, Coursera, FreeCodeCamp), AI tools.
 2. **🗣️ Soft Skills & Mindset:** Επικοινωνία, διαπραγμάτευση (Never Split the Difference), Στωικισμός.
