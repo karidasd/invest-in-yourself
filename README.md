@@ -4,29 +4,56 @@
 
 **Ο απόλυτος οδηγός για νέους 20-30 ετών που θέλουν να επενδύσουν στον εαυτό τους.**
 
-[![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-Coming_Soon-00e5ff?style=for-the-badge)](#)
 </div>
 
 ## 📌 Τι είναι αυτό το Repository;
 
-Το "Invest in Yourself" είναι ένα interactive roadmap (skill tree) σχεδιασμένο ως one-page εφαρμογή (SPA). Συγκεντρώνει τα πιο σημαντικά resources, δωρεάν courses, βιβλία και συμβουλές σε 4 βασικούς πυλώνες. 
+Το "Invest in Yourself" είναι ένα ανοιχτό roadmap που συγκεντρώνει τα πιο σημαντικά resources, δωρεάν courses, βιβλία και συμβουλές σε 4 βασικούς πυλώνες. 
 
 > 💡 **Philosophy:** Αυτός ο οδηγός δεν είναι απλά μια τυχαία λίστα με links. **Αντικατοπτρίζει το προσωπικό μου mindset** και τις αρχές που ακολουθώ ο ίδιος για να εξελίσσομαι καθημερινά σε επαγγελματικό και προσωπικό επίπεδο. 
 
-Οι 4 πυλώνες:
+---
 
-1. **🧠 Knowledge & Tech:** Δωρεάν πιστοποιήσεις (CS50, Coursera, FreeCodeCamp), AI tools.
-2. **🗣️ Soft Skills & Mindset:** Επικοινωνία, διαπραγμάτευση (Never Split the Difference), Στωικισμός.
-3. **💼 Wealth & Investing:** Compound interest, ETFs (S&P 500), ο κανόνας 50/30/20.
-4. **🏃‍♂️ Health & Biohacking:** Ύπνος, διατροφή, γυμναστική και ψυχική υγεία.
+## 🧠 1. Knowledge & Tech
+*Η γνώση είναι η μόνη επένδυση που δεν μπορεί να σου πάρει κανείς.*
 
-## 🎨 Τεχνολογίες
-- **Vanilla HTML / CSS / JS**
-- Glassmorphism UI
-- CSS Animations & Glow effects (Premium Dark Mode)
-
-## 🚀 Πώς να το τρέξεις
-Δεν χρειάζεται εγκατάσταση. Απλά άνοιξε το `index.html` στον browser σου. 
+- **[CS50 by Harvard](https://pll.harvard.edu/course/cs50-introduction-computer-science):** Το απόλυτο δωρεάν course στο Computer Science. Αλλάζει τον τρόπο που σκέφτεσαι.
+- **[FreeCodeCamp](https://www.freecodecamp.org/):** Μάθε προγραμματισμό εντελώς δωρεάν (Web Dev, Data Science).
+- **[Coursera (Google/Meta Certificates)](https://www.coursera.org/):** Επαγγελματικές πιστοποιήσεις σε UX, IT, Data Analytics.
+- **Prompt Engineering:** Μάθε να "μιλάς" στην Τεχνητή Νοημοσύνη (ChatGPT, Claude). Είναι το νέο Excel.
 
 ---
-*Built to help young minds grow. Open source and free forever.*
+
+## 🗣️ 2. Soft Skills & Mindset
+*Tα hard skills σου δίνουν τη δουλειά, τα soft skills σε κάνουν Leader.*
+
+- **[Atomic Habits (Βιβλίο)](https://jamesclear.com/atomic-habits):** Χτίσε συστήματα, όχι στόχους. Η καθημερινή βελτίωση κατά 1% φέρνει τεράστια αποτελέσματα.
+- **Στωικισμός:** Διάβασε τα "Εις Εαυτόν" (Meditations) του Μάρκου Αυρήλιου. Μάθε να ελέγχεις μόνο ό,τι μπορείς να ελέγξεις.
+- **[Never Split the Difference (Βιβλίο)](https://www.blackswanltd.com/never-split-the-difference):** Μάθε διαπραγμάτευση για τη ζωή, την καριέρα και τον μισθό σου.
+- **Public Speaking:** Βελτίωσε την επικοινωνία σου μέσα από κανάλια όπως το [Charisma on Command](https://www.youtube.com/c/charismaoncommand).
+
+---
+
+## 💼 3. Wealth & Investing
+*Χρόνος > Κεφάλαιο. Ξεκίνα νωρίς.*
+
+- **Ο Κανόνας 50/30/20:** 50% Ανάγκες (Ενοίκιο, Ρεύμα), 30% Επιθυμίες (Έξοδοι), 20% Επενδύσεις/Αποταμίευση.
+- **Compound Interest (Ανατοκισμός):** Ο μεγαλύτερος σύμμαχος στα 20s. Μικρά ποσά κάθε μήνα γίνονται περιουσία στα 40s.
+- **S&P 500 ETFs:** Μην προσπαθείς να διαλέξεις μεμονωμένες μετοχές. Αγόρασε όλη την αγορά (π.χ. VUAA, CSPX).
+- **Emergency Fund:** Μάζεψε 3-6 μήνες εξόδων σε μετρητά, για να έχεις το κεφάλι σου ήσυχο πριν επενδύσεις οπουδήποτε αλλού.
+
+---
+
+## 🏃‍♂️ 4. Health & Biohacking
+*Χωρίς υγεία, κανένας από τους άλλους 3 πυλώνες δεν έχει σημασία.*
+
+- **Sleep is King:** 7-8 ώρες ελάχιστο. Δροσερό δωμάτιο, καθόλου οθόνες 1 ώρα πριν τον ύπνο.
+- **Γυμναστική με βάρη:** Χτίσε μυϊκή μάζα νωρίς. Προστατεύει τις αρθρώσεις και τον μεταβολισμό σου όσο μεγαλώνεις.
+- **Διατροφή:** Υψηλή πρωτεΐνη, λίγη επεξεργασμένη ζάχαρη. 3 λίτρα νερό τη μέρα.
+- **Ψυχική Υγεία:** Καθημερινό περπάτημα 30' χωρίς κινητό, μουσική ή podcasts. Άσε τον εγκέφαλό σου να κάνει "reset".
+
+---
+
+<div align="center">
+<i>Built to help young minds grow. Open source and free forever.</i>
+</div>
