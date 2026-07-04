@@ -19,6 +19,13 @@
 ## 🧠 1. Knowledge & Tech
 *Η γνώση είναι η μόνη επένδυση που δεν μπορεί να σου πάρει κανείς και δεν υπόκειται σε πληθωρισμό.*
 
+### 🎓 Top Platforms for Free Learning
+- **[Harvard Online (edX)](https://pll.harvard.edu/catalog/free):** Όλα τα δωρεάν μαθήματα του Harvard (από προγραμματισμό μέχρι ηγεσία).
+- **[Stanford Online](https://online.stanford.edu/free-courses):** Τα δωρεάν μαθήματα του Stanford.
+- **[Kaggle](https://www.kaggle.com/learn):** Δωρεάν micro-courses από την Google για Python, Machine Learning και Data Science. Σε βάζει κατευθείαν στην πράξη.
+- **[Microsoft Learn](https://learn.microsoft.com/):** Η καλύτερη πηγή για να μάθεις cloud computing (Azure) και AI skills δωρεάν, κατευθείαν από τη Microsoft.
+- **[Class Central](https://www.classcentral.com/):** Το "Google" των δωρεάν online courses. Ψάχνεις ό,τι θες και σου βρίσκει πού διδάσκεται δωρεάν (Coursera, edX κλπ).
+
 ### 💻 Computer Science & Coding
 - **[CS50 by Harvard](https://pll.harvard.edu/course/cs50-introduction-computer-science):** Το απόλυτο δωρεάν course στο Computer Science. Αλλάζει τον τρόπο που σκέφτεσαι, ανεξαρτήτως επαγγέλματος.
 - **[FreeCodeCamp](https://www.freecodecamp.org/):** Μάθε προγραμματισμό εντελώς δωρεάν (Web Dev, Data Science, Python).

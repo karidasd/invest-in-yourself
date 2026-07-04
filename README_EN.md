@@ -19,6 +19,13 @@
 ## 🧠 1. Knowledge & Tech
 *Knowledge is the only investment no one can take away from you, and it's immune to inflation.*
 
+### 🎓 Top Platforms for Free Learning
+- **[Harvard Online (edX)](https://pll.harvard.edu/catalog/free):** All free courses from Harvard (from programming to leadership).
+- **[Stanford Online](https://online.stanford.edu/free-courses):** Free courses from Stanford.
+- **[Kaggle](https://www.kaggle.com/learn):** Free micro-courses from Google for Python, Machine Learning, and Data Science. Highly practical.
+- **[Microsoft Learn](https://learn.microsoft.com/):** The best source to learn cloud computing (Azure) and AI skills for free, directly from Microsoft.
+- **[Class Central](https://www.classcentral.com/):** The "Google" of free online courses. Search for anything and it finds where it's taught for free (Coursera, edX, etc.).
+
 ### 💻 Computer Science & Coding
 - **[CS50 by Harvard](https://pll.harvard.edu/course/cs50-introduction-computer-science):** The ultimate free course in Computer Science. It changes the way you think, regardless of your profession.
 - **[FreeCodeCamp](https://www.freecodecamp.org/):** Learn how to code for free (Web Dev, Data Science, Python).
