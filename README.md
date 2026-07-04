@@ -25,9 +25,11 @@
 - **[MIT OpenCourseWare](https://ocw.mit.edu/):** Όλα τα μαθήματα του MIT, δωρεάν στην οθόνη σου.
 - **[Coursera (Google/Meta Certificates)](https://www.coursera.org/):** Επαγγελματικές πιστοποιήσεις σε UX, IT, Data Analytics, Project Management.
 
-### 🤖 AI & The Future
-- **Prompt Engineering:** Μάθε να "μιλάς" στην Τεχνητή Νοημοσύνη (ChatGPT, Claude, Midjourney). Είναι το νέο Excel. Όποιος δεν ξέρει AI στα επόμενα 5 χρόνια, θα μείνει πίσω.
-- **[DeepLearning.AI](https://www.deeplearning.ai/):** Δωρεάν μαθήματα για AI από τον Andrew Ng (για όσους θέλουν να μπουν βαθιά).
+### 🤖 AI & The Future (Τεχνητή Νοημοσύνη)
+- **[Google AI Essentials (Coursera)](https://www.coursera.org/learn/google-ai-essentials):** Η καλύτερη εισαγωγή για να μάθεις να χρησιμοποιείς το AI στην καθημερινή σου δουλειά.
+- **[Anthropic's Claude Prompt Engineering](https://docs.anthropic.com/en/docs/prompt-engineering):** Το επίσημο (δωρεάν) documentation/course για το πώς να γράφεις τέλεια prompts για το Claude. Είναι το νέο Excel. 
+- **[OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering):** Ο αντίστοιχος επίσημος οδηγός της OpenAI για να πάρεις τα μέγιστα από το ChatGPT.
+- **[DeepLearning.AI (AI for Everyone)](https://www.deeplearning.ai/courses/ai-for-everyone/):** Δωρεάν μαθήματα για AI από τον Andrew Ng (για όσους θέλουν να καταλάβουν το "πώς" δουλεύει χωρίς να γράφουν απαραίτητα κώδικα).
 
 ---
 

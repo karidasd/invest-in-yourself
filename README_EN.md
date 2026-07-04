@@ -26,8 +26,10 @@
 - **[Coursera (Google/Meta Certificates)](https://www.coursera.org/):** Professional certificates in UX, IT, Data Analytics, Project Management.
 
 ### 🤖 AI & The Future
-- **Prompt Engineering:** Learn how to "talk" to Artificial Intelligence (ChatGPT, Claude, Midjourney). It's the new Excel. If you don't know AI in the next 5 years, you will fall behind.
-- **[DeepLearning.AI](https://www.deeplearning.ai/):** Free AI courses by Andrew Ng (for those who want to dive deep).
+- **[Google AI Essentials (Coursera)](https://www.coursera.org/learn/google-ai-essentials):** The best introduction to using AI in your daily work.
+- **[Anthropic's Claude Prompt Engineering](https://docs.anthropic.com/en/docs/prompt-engineering):** The official (free) course/documentation on how to write perfect prompts for Claude. It's the new Excel.
+- **[OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering):** The official guide from OpenAI to get the absolute most out of ChatGPT.
+- **[DeepLearning.AI (AI for Everyone)](https://www.deeplearning.ai/courses/ai-for-everyone/):** Free AI courses by Andrew Ng (for those who want to understand "how" it works without necessarily writing code).
 
 ---
 
